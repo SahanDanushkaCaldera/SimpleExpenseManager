@@ -1,0 +1,4 @@
+#Wed May 11 00:33:21 IST 2022
+base.0=E\:\\CSE Semester 4\\01 Software Engineering - CS3022 - 3 Cr\\SEManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
